@@ -69,7 +69,7 @@ pc {
 /* Menu
 -----------------------------------------------*/
 #menuBar {
-  height: 25px;
+  height: 32px;
   position: inherit;
   top: 2px;
   background: #333333;
